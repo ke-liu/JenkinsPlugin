@@ -1,4 +1,4 @@
-# pyATS Project Plugin User Guide
+# pyATS Project Plugin User Guide ![](assets/images/p_jenkins.png)
 
 The pyATS project plugin enables easy execution of pyATS easypy jobs.
 
