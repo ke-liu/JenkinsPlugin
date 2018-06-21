@@ -1,4 +1,4 @@
-# S3 Executor Plugin User Guide
+# S3 Executor Plugin User Guide ![](assets/images/e_jenkins.png)
 
 The S3 (Self Serve Services) Executor Plugin enables sanity job(s) registered in S3 portal(s) to be called within a build step.
 
