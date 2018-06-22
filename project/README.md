@@ -80,7 +80,9 @@ pyATS instance needs to be accessible from the Jenkins build node (master or sla
 ### Build Configuration
 
 #### Step 1:
+
 Add pyATS job as a build step, by selecting **Execute pyATS Job** from the list.
+
 ![](assets/images/config5.png)
 
 #### Step 2:
