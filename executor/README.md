@@ -28,7 +28,7 @@ Log in to Jenkins, click on "Manage Jenkins" and choose "Manage Plugins" from th
 ![](assets/images/install1.png)
 
 ### Step 3:
-From the "Manage Plugins" select the "Advanced" tab.  In "Upload Plugin" section choose the _.hpi_ file downloaded in step #1, and click on "upload".  Follow through the steps prompted by Jenkin to complete the installation.  This restart of Jenkins is optional, and not required for this plugin.   
+From the "Manage Plugins" select the "Advanced" tab.  In "Upload Plugin" section choose the _.hpi_ file downloaded in step #1, and click on "upload".  Follow through the steps prompted by Jenkin to complete the installation.   
 
 ![](assets/images/install2.png)
 
