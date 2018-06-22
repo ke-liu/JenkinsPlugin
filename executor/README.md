@@ -116,9 +116,9 @@ Possible validation messages are:
 To execute the job, click "Build Now" on the project page.
 
 ![](assets/images/run.png)
----
+
 Example of output when the "Block until completed" option disabled: 
----
+
 ![](assets/images/output1.png)
 ---
 Example of output when the "Block until completed" option enabled:
