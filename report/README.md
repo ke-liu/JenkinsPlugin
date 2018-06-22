@@ -107,7 +107,7 @@ The general information of the job, the report provides the overall result (pass
 ![](assets/images/output2.png)
 
 ### View results from Cisco Self Serve Services (S3) dashboard
-Click "Cisco S3 Result" will go directly to S3 instance the result is uploaded to.    
+Click "Cisco S3 Result" will go directly to S3 instance the result is uploaded to.
 
 ![](assets/images/s3output1.png)  ![](assets/images/s3output2.png)
 
