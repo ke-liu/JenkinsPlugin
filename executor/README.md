@@ -28,7 +28,7 @@ Log in to Jenkins, click on "Manage Jenkins" and choose "Manage Plugins" from th
 ![](assets/images/install1.png)
 
 ### Step 3:
-From the "Manage Plugins" select the "Advanced" tab.  In "Upload Plugin" section choose the _.hpi_ file downloaded in step #1, and click on "upload".  Follow through the steps prompted by Jenkin to complete the installation.   
+From the "Manage Plugins" select the "Advanced" tab.  In "Upload Plugin" section choose the _.hpi_ file downloaded in step #1, and click on "upload".  Follow through the steps prompted by Jenkin to complete the installation. No need to restart Jenkins service for new installation (restart Jenkins when upgrading/downgrading the plugin).
 
 ![](assets/images/install2.png)
 
